@@ -1,7 +1,7 @@
-# Vulnerable WebViews Project
+# Frida Challenges App
 
 ## Overview
 
-The Vulnerable WebViews Project is an educational initiative aimed at raising awareness about security vulnerabilities associated with the usage of WebViews in mobile applications. WebViews are commonly used to embed web content within native mobile apps, providing a seamless way to integrate web-based functionality. However, improper implementation and configuration of WebViews can lead to significant security risks.
+The Frida Challenges App is a hands-on learning platform designed to help developers, security researchers, and enthusiasts enhance their understanding of application security using the Frida dynamic instrumentation toolkit. Frida is a powerful tool for dynamic analysis and manipulation of software, providing insights into runtime behavior and enabling various security assessments.
 
-This project provides a collection of sample mobile applications with intentionally introduced vulnerabilities in their WebViews. By studying these vulnerabilities, developers, security enthusiasts, and researchers can better understand the potential risks and learn how to secure their apps effectively.
+This repository contains a collection of challenges that progressively introduce you to different use cases and techniques for using Frida to analyze and manipulate the behavior of mobile applications.
